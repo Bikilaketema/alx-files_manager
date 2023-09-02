@@ -1,7 +1,6 @@
 /* import Collection from 'mongodb/lib/collection'; */
 import mongodb from 'mongodb';
 import envLoader from './loader';
-// eslint-disable-next-line no-unused-vars
 
 class DBClient {
   constructor() {
